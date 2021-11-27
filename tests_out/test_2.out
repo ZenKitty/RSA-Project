@@ -1,0 +1,12 @@
+Enter two distinct prime numbers: n = 1271
+phi = 1200
+Choose an e that does not share any factors with phi (Try more primes): Success, Calculating d...
+d = 1091
+Public Key = (n, e) = (1271, 11)
+Private Key = (n, d) = (1271, 1091)
+Please enter your text to be encrypted: 
+Encrypted message in hex:
+23231e31e2322c42d23e123231e3e141323225244
+
+Your message decrypted: 
+attack at dawn

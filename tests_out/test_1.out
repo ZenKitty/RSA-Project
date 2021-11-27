@@ -1,0 +1,12 @@
+Enter two distinct prime numbers: n = 37627
+phi = 37240
+Choose an e that does not share any factors with phi (Try more primes): Success, Calculating d...
+d = 22917
+Public Key = (n, e) = (37627, 13)
+Private Key = (n, d) = (37627, 22917)
+Please enter your text to be encrypted: 
+Encrypted message in hex:
+40942d8b8f611136287e8f611136287e6706287e409423cc8c6e287e11367d40563c312d7d404094287e75547d401136113667067e647d40
+
+Your message decrypted: 
+this is a top secret message

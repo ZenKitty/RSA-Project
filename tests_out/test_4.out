@@ -1,0 +1,12 @@
+Enter two distinct prime numbers: n = 1643
+phi = 1560
+Choose an e that does not share any factors with phi (Try more primes): Success, Calculating d...
+d = 851
+Public Key = (n, e) = (1643, 11)
+Private Key = (n, d) = (1643, 851)
+Please enter your text to be encrypted: 
+Encrypted message in hex:
+4ef5aa34113c234113c21973c25aa345495494454ee3c24ef4455504ef
+
+Your message decrypted: 
+this is a hidden text

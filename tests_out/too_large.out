@@ -1,0 +1,12 @@
+Enter two distinct prime numbers: n = 68021
+phi = 67500
+Choose an e that does not share any factors with phi (Try more primes): Success, Calculating d...
+d = 49091
+Public Key = (n, e) = (68021, 11)
+Private Key = (n, d) = (68021, 49091)
+Please enter your text to be encrypted: 
+Encrypted message in hex:
+c319ffff0616ffff6858ad2abe56c6dcffff16345b6effff19addaccffff19adad2abe56ffff6858ad2abe56d03bffff1634ffff1634be56daccce14d9d9bdb2fffff7d2be56ffffd9aeffff1634d9d9be56a426c1d3c1d3
+
+Your message decrypted: 
+ç—™ƒgmE}ÝûÝƒg™ƒg:EEgû%MªBg@EMgc11

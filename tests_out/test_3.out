@@ -1,0 +1,12 @@
+Enter two distinct prime numbers: n = 1457
+phi = 1380
+Choose an e that does not share any factors with phi (Try more primes): Success, Calculating d...
+d = 1183
+Public Key = (n, e) = (1457, 7)
+Private Key = (n, d) = (1457, 1183)
+Please enter your text to be encrypted: 
+Encrypted message in hex:
+3e623742a2424927c3625a73843342371f338423756e42a384362580328384644933e2a427c362328384431328334
+
+Your message decrypted: 
+congrats you own the private key

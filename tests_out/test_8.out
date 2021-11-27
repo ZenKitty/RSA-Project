@@ -1,0 +1,12 @@
+Enter two distinct prime numbers: n = 5141
+phi = 4992
+Choose an e that does not share any factors with phi (Try more primes): Success, Calculating d...
+d = 1997
+Public Key = (n, e) = (5141, 5)
+Private Key = (n, d) = (5141, 1997)
+Please enter your text to be encrypted: 
+Encrypted message in hex:
+13a0fea68113a0630fea13a068113a0681fea630630630fea13a0
+
+Your message decrypted: 
+tagtcatgtgacccat

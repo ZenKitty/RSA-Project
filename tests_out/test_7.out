@@ -1,0 +1,12 @@
+Enter two distinct prime numbers: n = 3403
+phi = 3280
+Choose an e that does not share any factors with phi (Try more primes): Success, Calculating d...
+d = 2187
+Public Key = (n, e) = (3403, 3)
+Private Key = (n, d) = (3403, 2187)
+Please enter your text to be encrypted: 
+Encrypted message in hex:
+a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a5724675225dc4185d25dc4185d29d85d25abd41ab16c85d761a23c41c4129d16ca23a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57a57
+
+Your message decrypted: 
+---------------------------------------------------This is a long message------------------------------------------------------

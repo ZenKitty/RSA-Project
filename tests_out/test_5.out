@@ -1,0 +1,12 @@
+Enter two distinct prime numbers: n = 14803
+phi = 14560
+Choose an e that does not share any factors with phi (Try more primes): Success, Calculating d...
+d = 3971
+Public Key = (n, e) = (14803, 11)
+Private Key = (n, d) = (14803, 3971)
+Please enter your text to be encrypted: 
+Encrypted message in hex:
+12fc27c81c44200121527c8200154b12fc6b319751975163220011f621c4436703005200127c86b3101921df12fc6b3
+
+Your message decrypted: 
+rsa is pretty dang secure

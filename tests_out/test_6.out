@@ -1,0 +1,12 @@
+Enter two distinct prime numbers: n = 6319
+phi = 6160
+Choose an e that does not share any factors with phi (Try more primes): Success, Calculating d...
+d = 4107
+Public Key = (n, e) = (6319, 3)
+Private Key = (n, d) = (6319, 4107)
+Please enter your text to be encrypted: 
+Encrypted message in hex:
+67524e010db49583eb52aa7be4130da46749567aa7aa71564495ab149510d1524e08b7130
+
+Your message decrypted: 
+this project took a while
